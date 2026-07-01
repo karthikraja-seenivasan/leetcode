@@ -13,6 +13,7 @@
 | [0367-valid-perfect-square](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0704-binary-search/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +22,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0704-binary-search/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->
