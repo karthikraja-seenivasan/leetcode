@@ -14,6 +14,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthikraja-seenivasan/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/karthikraja-seenivasan/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthikraja-seenivasan/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/karthikraja-seenivasan/leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/karthikraja-seenivasan/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
